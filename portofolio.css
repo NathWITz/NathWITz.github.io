@@ -1,0 +1,92 @@
+.navbarkader {
+    background-color: #000287;
+}
+
+.tulisankader {
+    color: rgb(226, 226, 226);
+}
+
+.searchkader {
+    color: rgb(177, 220, 248);
+}
+
+.judulwebsiteutama {
+    text-align: center;
+    font-family: 'baskerville';
+    font-size: 150px;
+}
+
+.warnabawah {
+    background-color: rgb(33, 33, 48);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.contactme {
+    text-align: center;
+    font-family: 'baskerville';
+    font-size: 20px;
+    color: slategray;
+}
+
+.ngecilinfotodiri {
+    width: 70%;
+}
+
+.kecilinicon img {
+    width: 15%;
+}
+
+.warnaicon {
+    color: slategray;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+.atashobby {
+    margin-top: 50px;
+}
+
+.fontisiserif {
+    font-family: serif
+}
+
+.fontisibaskerville {
+    font-family: 'baskerville'
+}
+
+.fontisibaskerville2 {
+    font-family: 'baskerville';
+    font-size: 20px;
+}
+
+.kecilinfloorball {
+    width: 70%;
+}
+
+#floorball {
+    background: url(floorball.JPG) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+
+.fb {
+    padding: 300px 0;
+}
+
+.warnabg {
+    background-color: #ab61ff;
+}
+
+.marginbawah {
+    padding-bottom: 100px;
+}
+
+.bgbutton {
+    background-color: #d6baf7;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
