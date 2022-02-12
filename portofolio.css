@@ -90,3 +90,12 @@
     padding-bottom: 30px;
     padding-top: 10px;
 }
+
+#basket {
+    background: url(lapangan\ basket.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
